@@ -26,7 +26,7 @@
         <elementListCompartment Id="f37905d0-30f2-42c8-84fc-f3548852ce7d" absoluteBounds="2.3899999999999997, 2.90568359375, 1.4700000000000002, 0.44169108072916663" name="Collections" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </xpObjectShape>
-    <aggregationConnector Id="6d8d690b-9f1e-4ea7-8e60-b701be1d9e14" edgePoints="[(3.875 : 2.59868733723958); (5.5 : 2.59868733723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <aggregationConnector Id="6d8d690b-9f1e-4ea7-8e60-b701be1d9e14" edgePoints="[(3.875 : 2.59868733723958); (5.5 : 2.59868733723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <aggregationMoniker Id="7ca24346-ba0d-4f9c-9b6b-8accf70b131e" />
       <relativeChildShapes />
       <nodes>
@@ -39,7 +39,7 @@
         </associationConnectorReferencesSourceCollectionField>
       </sourceCollectionField>
     </aggregationConnector>
-    <aggregationConnector Id="f290b3bd-d18e-4f3d-9d4d-86c1417e6034" edgePoints="[(9 : 2.72368733723958); (7 : 2.72368733723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <aggregationConnector Id="f290b3bd-d18e-4f3d-9d4d-86c1417e6034" edgePoints="[(9 : 2.72368733723958); (7 : 2.72368733723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <aggregationMoniker Id="46ae2219-b370-4387-9d4c-8ef726d2944c" />
       <relativeChildShapes />
       <nodes>
