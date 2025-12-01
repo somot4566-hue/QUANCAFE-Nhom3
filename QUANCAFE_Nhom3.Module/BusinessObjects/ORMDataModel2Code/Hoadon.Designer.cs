@@ -39,6 +39,20 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             get { return fSophieu; }
             set { SetPropertyValue<int>(nameof(Sophieu), ref fSophieu, value); }
         }
+        Nhanvien fNhanvienID;
+        [Association(@"HoadonReferencesNhanvien")]
+        public Nhanvien NhanvienID
+        {
+            get { return fNhanvienID; }
+            set { SetPropertyValue<Nhanvien>(nameof(NhanvienID), ref fNhanvienID, value); }
+        }
+        Khachhang fKhachID;
+        [Association(@"HoadonReferencesKhachhang")]
+        public Khachhang KhachID
+        {
+            get { return fKhachID; }
+            set { SetPropertyValue<Khachhang>(nameof(KhachID), ref fKhachID, value); }
+        }
         [Association(@"HoadonCTReferencesHoadon"), Aggregated]
         public XPCollection<HoadonCT> HoadonCTs { get { return GetCollection<HoadonCT>(nameof(HoadonCTs)); } }
     }

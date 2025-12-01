@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="660034d2-9c78-4750-ab98-ffa6c5b430e1" namespace="QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2" dataBaseShemaInfo="H4sIAAAAAAAEAN1Z224TSRB9R+IfrDzTdt8vyDGChGURC0I4oH2t7q6OR2vPRB47CX+/5UsCSWA3K0YeaV+idHW1ps9UnapT4/GL68V8cInLtmrq4yMx5EcvJk+fjF9Bi9NVs4RzfFuXZkBedfv8us3HR7PV6uL5aHR1dTW8UsNmeT6SnIvRn+//mKYZLuDo1rn6d2dW1e0K6oRH9NTBYHwGcY7t5pHb9Y3lO8ON6QMscPJ7A7mpx6Nvllun1/XGNlkt1zge7Re3m6dVuzF8vsiwwkmBeUtOd423vm/WVX6bJ0JHBBMiSzIWpg1yBl5xxk3yygbuXOTj0d759vBJM18v6vbO/X9qpo0Nht3mZNpEIGjfWe54/hO+/4rxe5zeKRRKBabBcKZtkczzHFgRsaArXpmUHuCk46NfgPrhHL4eHmk0USMPifAlwzQHz6Ih4BTJpGMUCbXoGum0uZhVuD482OxyiUhgFc+OaUGJHJNCJrm2xsusvSidh3UG9WWF9dvTHtI4pKBcKIyXQmnspWfBq8gsB6to5aPsHO+7GaRZH2CtUEEUlZkOhf6Ay8wnLSjCNrhAUI1Xjwb7I+u+wj66Lk+hvpjB4iCFWSvrUZnIitEUaUXhjpgjEyBsDgnQxIc0/pXCfIb19OPhg4yycIvCMaVUIpxGMW8TcdlZXzhFHuHxQX4k1NMvZz1QV0kZdRLMQUTqQIDMZ5uY0zJJS8kdxMNO+4tA31TQS7e1pWgA7ZhFSy1XBepB4CTTBRMGSCGHfFDm7hTVydlBqMuzzyqQkjIFCXMwhoHTwIKy2RgeheWuY001Xzf1+eHjnKzJULJgOQvPdJKJRak9E84abgpIq7snLyGtoAdd5ajJqlSYScaSUraKQYmauRBjzopzKtRdY92lbR+9N1KLFaQbKZ6JcpiaDouKS5al41ZFkDJ1ryJ37bUPuNxzjhlJSMVE3TaTwoqpCJaQmhAGhSE+PrhdFKwTehFpy+kDFCynYgIvNU1DkoRWtKSiSyLpUbwzJVMbVt1qjT4lNDiajpwyTPqiSUIjqUotJEtGohQme8i++z7cXEJzeKwSIaC2gsQVZbTewAzAA0NhgzIWldKd1yzCuuyhPGfDPW4nQbQkr3ggeWVKYIHGhFKyCRbNQRl8k+MHYTBQ+wmepl8lDDXioGhKUkExKY3VVNK8L90y+PdmhT0IS+GSEsVrFk021IQlSSse9GYq4rI4hwaxc8FBQVzNGqh6GI5s5kp4yzggEH95ZiHlzIotEn3kaL3tGu77depJTWprtdfe04SkaRQksUWSORH4qLU3WMDKw04N2y8fROPDdOHEjfKKxDQJD2pMgup00HL74U5FLVzkSv4fOGy1lYEUxUZeEIfL5lMsaMlIbFCR9jRPhM6bUo8cjlgEOp+ZKpsvz9FE5qUoNPwHqTE7W0znM9L7aQ8fOAqVY4tOMQTCqLUkDU1FiogsOVE4SeJyp/Tdr7+5jDe/7WD+uGzS1jgY7cxfdj8ETU7x8vX1xRLbdngKKxheSjMUzwb77ePNamiG/NngZD1frZd4XON6tYT5s8HHdZxX6R1+PWv+wvo4ep+FMzo7Ght0ILlz84jt807m0LbYbgLwaX37dscvM10NS3W9v9fONF2XO6ZPuGgu8b7jznrf9wRanHyu06ZGIdXG7Xr3an50hzG9mQtcrqqe7/aTa4zfYI1LSq+TZrEgvrb7HH1gvuN8im11Tv/+VlEq3Dtxd2977BTnuMKXbdukClYUspszP9jYHviwns83afYKZ3BJ2payqADlBxHs/s7TJ+PRvZ8YJ38DSLsFvIscAAA=" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="24.2.3.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="24.2.3.0" name="ORMDataModel2" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="660034d2-9c78-4750-ab98-ffa6c5b430e1" namespace="QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="24.2.3.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="24.2.3.0" name="ORMDataModel2" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
   <classes>
     <dataBaseObjectModelHasClasses Id="67dde020-d02f-4965-baeb-68a258d03b54">
       <xpObject Id="4368e35b-f540-43f0-bedb-1a16d9cae5b1" name="Sanpham" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Sanpham" designerFileName="Sanpham.Designer" className="Sanpham" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Sanpham" customAttributes="DefaultProperty(&quot;TenSP&quot;">
@@ -147,6 +147,54 @@
             <collectionField Id="7630f423-4ef6-4a06-ad94-ba5c52684c57" name="Hoadons" />
           </xpObjectHasCollectionFields>
         </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1359d13b-35e3-41a5-b862-2ce44e3809ad">
+      <xpObject Id="208f251e-5a08-4526-a4c0-b75b39aed56e" name="DongNhap" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="DongNhap" designerFileName="DongNhap.Designer" className="DongNhap" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="DongNhap" customAttributes="DefaultProperty(&quot;Soluong&quot;)">
+        <fields>
+          <generalXpObjectHasFields Id="a55c8e00-95cc-4d57-8526-fd8235a908c6">
+            <field Id="c2f694a3-dbe4-4205-9086-f6c7e94f2055" name="SanphamID" virtualColumnType="Sanpham" logicalType="Sanpham" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="17bfc0cb-02bd-4e97-9039-a897ed06136d">
+            <field Id="31ab0592-5a8b-48d5-93af-7203e5cd3d39" name="NhapID" virtualColumnType="PhieuNhap" logicalType="PhieuNhap" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="bf4e636d-a5d5-4741-8ef5-43d0231c0c30">
+            <field Id="899609eb-3d74-456c-9a3c-6bc4ac812bec" name="Soluong" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f0eeb37f-a92e-43f6-a01d-2b0754810bb4">
+            <field Id="2221dded-a7ea-4ce9-81e9-985780838efb" name="Dongia" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="be710796-fa77-46d6-b744-a6d37d057dbf">
+      <xpObject Id="c4ba1ec1-33de-4583-8f22-77cb5e6636e8" name="NhomSP" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="NhomSP" designerFileName="NhomSP.Designer" className="NhomSP" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="NhomSP" customAttributes="DefaultProperty(&quot;Tennhom&quot;)">
+        <fields>
+          <generalXpObjectHasFields Id="2a7c8e6a-a478-478d-8e54-4055c409f613">
+            <field Id="60665d03-cc00-452d-bc35-a3ba545ac85f" name="Tennhom" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="fe247d78-4f62-4a8b-93a4-2af03e8b1927">
+            <field Id="a7674843-1b60-49fb-b51e-c858cc2fdb4a" name="Phanloai" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="f7797223-4c73-43b4-b5fa-72b8faec817e">
+      <xpObject Id="12958a15-6fff-4fd7-ab6e-2b10b9779ea1" name="PhieuNhap" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="PhieuNhap" designerFileName="PhieuNhap.Designer" className="PhieuNhap" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="PhieuNhap" customAttributes="DefaultProperty(&quot;So&quot;)">
+        <fields>
+          <generalXpObjectHasFields Id="e5684cc7-ada6-4ae2-85a0-0686fd35f613">
+            <field Id="f125ae21-8006-4a35-9a1f-c43a3af91ebe" name="NCCID" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0551c6db-6faf-4b7a-a915-d3b2d0fc61f4">
+            <field Id="fb90ccec-d0e7-4cdc-be91-ecf08e270686" name="NhanvienID" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e9ae8c7a-ceb8-4f6b-9d76-16bdd3b302c7">
+            <field Id="c5c0093f-3c6f-4e0f-95a9-ee0b6cb5332e" name="So" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b3e6c836-562c-43ba-b3b3-0ef7f655074a">
+            <field Id="73d18c12-7a71-4151-94a8-f996ba5ba144" name="Ngay" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
       </xpObject>
     </dataBaseObjectModelHasClasses>
   </classes>
