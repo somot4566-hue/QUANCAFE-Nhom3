@@ -32,7 +32,14 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             get { return fDienthoai; }
             set { SetPropertyValue<string>(nameof(Dienthoai), ref fDienthoai, value); }
         }
-        [Association(@"HoadonReferencesKhachhang")]
+        string fMST;
+        [DevExpress.Persistent.Validation.RuleUniqueValue]
+        public string MST
+        {
+            get { return fMST; }
+            set { SetPropertyValue<string>(nameof(MST), ref fMST, value); }
+        }
+        [Association(@"HoadonReferencesKhachhang"), Aggregated]
         public XPCollection<Hoadon> Hoadons { get { return GetCollection<Hoadon>(nameof(Hoadons)); } }
     }
 

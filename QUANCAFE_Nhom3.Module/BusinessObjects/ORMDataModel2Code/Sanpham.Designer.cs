@@ -34,7 +34,7 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             set { SetPropertyValue<string>(nameof(DVT), ref fDVT, value); }
         }
         decimal fGiaban;
-        [DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "### ### ### ###")]
+        [DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "### ### ### ###"),]
         public decimal Giaban
         {
             get { return fGiaban; }
@@ -51,6 +51,12 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
         public XPCollection<HoadonCT> HoadonCTs { get { return GetCollection<HoadonCT>(nameof(HoadonCTs)); } }
         [Association(@"DongNhapReferencesSanpham"), Aggregated]
         public XPCollection<DongNhap> DongNhaps { get { return GetCollection<DongNhap>(nameof(DongNhaps)); } }
+        [Association(@"TieuhaoReferencesSanpham"), Aggregated]
+        public XPCollection<Tieuhao> Tieuhaos { get { return GetCollection<Tieuhao>(nameof(Tieuhaos)); } }
+        [Association(@"DinhluongReferencesSanpham"), Aggregated]
+        public XPCollection<Dinhluong> Dinhluongs { get { return GetCollection<Dinhluong>(nameof(Dinhluongs)); } }
+        [Association(@"DinhluongReferencesSanpham1"), Aggregated]
+        public XPCollection<Dinhluong> Dinhluongs1 { get { return GetCollection<Dinhluong>(nameof(Dinhluongs1)); } }
     }
 
 }

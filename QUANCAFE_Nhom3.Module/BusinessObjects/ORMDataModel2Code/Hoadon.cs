@@ -11,7 +11,14 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
     public partial class Hoadon
     {
         public Hoadon(Session session) : base(session) { }
-        public override void AfterConstruction() { base.AfterConstruction(); }
+        public override void AfterConstruction() 
+        { 
+            base.AfterConstruction();
+            if (Session.IsNewObject(this)) 
+            {
+                Ngay = DateTime.Now;
+            }
+        }
     }
 
 }

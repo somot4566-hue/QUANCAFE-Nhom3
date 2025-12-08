@@ -7,8 +7,20 @@
     <Items>
       <Item Id="@94fd4364-f711-455c-b196-d275783babaf" Caption="Quản lý" ImageName="BO_Role" IsNewNode="True">
         <Items IsNewNode="True">
-          <Item Id="@a5f9dda6-de00-4273-be90-8efa3d508f0f" ViewId="Hoadon_ListView" Caption="Hóa đơn" IsNewNode="True" />
-          <Item Id="@f82fb1b6-fd6d-4c2c-a10d-723fa9de4794" Caption="Sản phẩm" ViewId="Sanpham_ListView" IsNewNode="True" />
+          <Item Id="@f82fb1b6-fd6d-4c2c-a10d-723fa9de4794" Caption="Sản phẩm" ViewId="Sanpham_ListView" Index="0" IsNewNode="True" />
+          <Item Id="@a5f9dda6-de00-4273-be90-8efa3d508f0f" ViewId="Hoadon_ListView" Caption="Hóa đơn" Index="1" IsNewNode="True" />
+          <Item Id="@5236007c-f77c-4ad2-bd39-de05d5ad2e0d" Caption="Bảng lương" ViewId="Bangluong_ListView" Index="2" IsNewNode="True" />
+          <Item Id="@9e84ad33-69d9-4e29-a9ac-27a22acdd542" Caption="Chấm công" ViewId="Chamcong_ListView" Index="3" IsNewNode="True" />
+          <Item Id="@8ec23969-50f4-49ff-988c-1967d603d250" Caption="Định lượng" ViewId="Dinhluong_ListView" Index="4" IsNewNode="True" />
+          <Item Id="@715f2e52-dc29-4183-9b1f-78236efde459" Caption="Đồng nhập" ViewId="DongNhap_ListView" Index="5" IsNewNode="True" />
+          <Item Id="@93c46204-301a-4c82-ae53-c19de2993043" Caption="Hóa đơn CT" ViewId="HoadonCT_ListView" Index="6" IsNewNode="True" />
+          <Item Id="@99ed60a3-2f73-40dc-8d91-10a83fa0446c" Caption="Khách hàng" ViewId="Khachhang_ListView" Index="7" IsNewNode="True" />
+          <Item Id="@cbefdcda-d533-4ea8-bf49-cd9f6c9d7e6f" Caption="Nhà cung cấp" ViewId="Nhacungcap_ListView" Index="8" IsNewNode="True" />
+          <Item Id="@bafa1e59-f87b-4704-87a0-7a0492316262" Caption="Nhân viên" ViewId="Nhanvien_ListView" Index="9" IsNewNode="True" />
+          <Item Id="@62ca46fe-160f-48e1-915f-55562fd260e2" Caption="Nhóm sản phẩm" ViewId="NhomSP_ListView" Index="10" IsNewNode="True" />
+          <Item Id="@45c7a2a4-3f8c-42c0-a761-583626c553e2" Caption="Phiếu chi" ViewId="Phieuchi_ListView" Index="11" IsNewNode="True" />
+          <Item Id="@8da74bd7-1f5f-48a0-ba15-e6fc2faa8436" Caption="Tiêu hao" ViewId="Tieuhao_ListView" IsNewNode="True" />
+          <Item Id="@ff2580be-5889-4554-9e4f-c0919fd6e736" Caption="Phiếu nhập" ViewId="PhieuNhap_ListView" IsNewNode="True" />
         </Items>
       </Item>
     </Items>
@@ -21,5 +33,7 @@
   </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <ListView Id="Hoadon_HoadonCTs_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="Sanpham_ListView" AllowEdit="True" NewItemRowPosition="Top" />
   </Views>
 </Application>
