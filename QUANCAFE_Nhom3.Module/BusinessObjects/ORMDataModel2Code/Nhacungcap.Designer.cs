@@ -13,11 +13,11 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel1
+namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
     [DefaultProperty("Hoten")]
-    public partial class Nhanvien : DevExpress.Persistent.BaseImpl.BaseObject
+    public partial class Nhacungcap : DevExpress.Persistent.BaseImpl.BaseObject
     {
         string fHoten;
         public string Hoten
@@ -26,19 +26,23 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel1
             set { SetPropertyValue<string>(nameof(Hoten), ref fHoten, value); }
         }
         string fDienthoai;
+        [DevExpress.Persistent.Validation.RuleUniqueValue]
         public string Dienthoai
         {
             get { return fDienthoai; }
             set { SetPropertyValue<string>(nameof(Dienthoai), ref fDienthoai, value); }
         }
-        string fMucluong;
-        public string Mucluong
+        string fMST;
+        [DevExpress.Persistent.Validation.RuleUniqueValue]
+        public string MST
         {
-            get { return fMucluong; }
-            set { SetPropertyValue<string>(nameof(Mucluong), ref fMucluong, value); }
+            get { return fMST; }
+            set { SetPropertyValue<string>(nameof(MST), ref fMST, value); }
         }
-        [Association(@"ChamcongReferencesNhanvien"), Aggregated]
-        public XPCollection<Chamcong> Chamcongs { get { return GetCollection<Chamcong>(nameof(Chamcongs)); } }
+        [Association(@"PhieuNhapReferencesNhacungcap"), Aggregated]
+        public XPCollection<PhieuNhap> PhieuNhaps { get { return GetCollection<PhieuNhap>(nameof(PhieuNhaps)); } }
+        [Association(@"PhieuchiReferencesNhacungcap"), Aggregated]
+        public XPCollection<Phieuchi> Phieuchis { get { return GetCollection<Phieuchi>(nameof(Phieuchis)); } }
     }
 
 }

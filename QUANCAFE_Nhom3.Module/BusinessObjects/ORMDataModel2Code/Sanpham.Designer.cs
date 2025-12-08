@@ -16,7 +16,7 @@ using System.Reflection;
 namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
-    [DefaultProperty("TenSP"]
+    [DefaultProperty("TenSP")]
     public partial class Sanpham : DevExpress.Persistent.BaseImpl.BaseObject
     {
         string fTenSP;
@@ -34,14 +34,23 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             set { SetPropertyValue<string>(nameof(DVT), ref fDVT, value); }
         }
         decimal fGiaban;
-        [DevExpress.Express App.Model.ModelDefault("DisplayFormat", "### ### ### ###"),]
+        [DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "### ### ### ###")]
         public decimal Giaban
         {
             get { return fGiaban; }
             set { SetPropertyValue<decimal>(nameof(Giaban), ref fGiaban, value); }
         }
+        NhomSP fNhomID;
+        [Association(@"SanphamReferencesNhomSP")]
+        public NhomSP NhomID
+        {
+            get { return fNhomID; }
+            set { SetPropertyValue<NhomSP>(nameof(NhomID), ref fNhomID, value); }
+        }
         [Association(@"HoadonCTReferencesSanpham"), Aggregated]
         public XPCollection<HoadonCT> HoadonCTs { get { return GetCollection<HoadonCT>(nameof(HoadonCTs)); } }
+        [Association(@"DongNhapReferencesSanpham"), Aggregated]
+        public XPCollection<DongNhap> DongNhaps { get { return GetCollection<DongNhap>(nameof(DongNhaps)); } }
     }
 
 }

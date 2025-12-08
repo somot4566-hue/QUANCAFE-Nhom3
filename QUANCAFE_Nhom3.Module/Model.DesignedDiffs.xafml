@@ -1,11 +1,24 @@
-﻿<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Application Title="QUANCAFE-Nhom3">
   <BOModel>
     <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
   </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@94fd4364-f711-455c-b196-d275783babaf" Caption="Quản lý" ImageName="BO_Role" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@a5f9dda6-de00-4273-be90-8efa3d508f0f" ViewId="Hoadon_ListView" Caption="Hóa đơn" IsNewNode="True" />
+          <Item Id="@f82fb1b6-fd6d-4c2c-a10d-723fa9de4794" Caption="Sản phẩm" ViewId="Sanpham_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
   <Options>
     <LayoutManagerOptions RequiredFieldMark="*" />
   </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.2.3.0" IsNewNode="True" />
+  </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
   </Views>

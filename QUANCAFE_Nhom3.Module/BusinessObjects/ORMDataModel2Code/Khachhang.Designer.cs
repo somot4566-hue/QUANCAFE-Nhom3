@@ -16,10 +16,10 @@ using System.Reflection;
 namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
+    [DefaultProperty("Hoten")]
     public partial class Khachhang : DevExpress.Persistent.BaseImpl.BaseObject
     {
         string fHoten;
-        [DefaultProperty("Hoten")]
         public string Hoten
         {
             get { return fHoten; }
@@ -32,13 +32,7 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             get { return fDienthoai; }
             set { SetPropertyValue<string>(nameof(Dienthoai), ref fDienthoai, value); }
         }
-        string fMST;
-        public string MST
-        {
-            get { return fMST; }
-            set { SetPropertyValue<string>(nameof(MST), ref fMST, value); }
-        }
-        [Association(@"HoadonReferencesKhachhang"), Aggregated]
+        [Association(@"HoadonReferencesKhachhang")]
         public XPCollection<Hoadon> Hoadons { get { return GetCollection<Hoadon>(nameof(Hoadons)); } }
     }
 

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="660034d2-9c78-4750-ab98-ffa6c5b430e1" namespace="QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="24.2.3.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="24.2.3.0" name="ORMDataModel2" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="660034d2-9c78-4750-ab98-ffa6c5b430e1" namespace="QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="24.2.3.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="24.2.3.0" name="ORMDataModel2" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
   <classes>
     <dataBaseObjectModelHasClasses Id="67dde020-d02f-4965-baeb-68a258d03b54">
       <xpObject Id="4368e35b-f540-43f0-bedb-1a16d9cae5b1" name="Sanpham" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Sanpham" designerFileName="Sanpham.Designer" className="Sanpham" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Sanpham" customAttributes="DefaultProperty(&quot;TenSP&quot;">
@@ -13,15 +13,24 @@
           <generalXpObjectHasFields Id="af34c1b1-9b80-4951-9622-e83b007b0c2a">
             <field Id="6ff4aa47-6e69-4398-ba72-4fece9ac9d9d" name="Giaban" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.Express App.Model.ModelDefault(&quot;DisplayFormat&quot;, &quot;### ### ### ###&quot;)," />
           </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a29fed89-021e-4d29-9f86-7fc4ec564c09">
+            <field Id="9f8d2f8d-5a0d-426d-8662-5d858ded3e74" name="NhomID" virtualColumnType="NhomSP" logicalType="NhomSP" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
         </fields>
         <aggrTarget>
           <aggregation Id="46ae2219-b370-4387-9d4c-8ef726d2944c" sourceCollectionName="HoadonCTs" name="HoadonCTReferencesSanpham" targetFieldName="SanphamID">
             <xpObjectMoniker Id="0d8d39e0-5fe2-4955-a74a-936d550b1607" />
           </aggregation>
+          <aggregation Id="5a978845-5df4-449a-ae70-a742ae626cc9" sourceCollectionName="DongNhaps" name="DongNhapReferencesSanpham" targetFieldName="SanphamID">
+            <xpObjectMoniker Id="208f251e-5a08-4526-a4c0-b75b39aed56e" />
+          </aggregation>
         </aggrTarget>
         <collectionFields>
           <xpObjectHasCollectionFields Id="73eb08bd-92fb-44ab-8b02-8db95ad2a327">
             <collectionField Id="429c2bbe-1f87-464b-8a6b-de3fb1717344" name="HoadonCTs" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="d4bd51ff-eb9c-4b71-b007-8ef2a73e0c96">
+            <collectionField Id="73ce93e3-97c4-4018-8ea5-3a48d514a967" name="DongNhaps" />
           </xpObjectHasCollectionFields>
         </collectionFields>
       </xpObject>
@@ -103,7 +112,7 @@
             <field Id="e6d03186-0aea-440d-9cdd-f6f2e8b0e686" name="Dienthoai" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.Persistent.Validation.RuleUniqueValue" />
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="e46099bb-ed2e-4dba-ba3d-ea76bc5c50d6">
-            <field Id="46648488-7a4c-4a3c-93c6-0b4485efa62d" name="Mucluong" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+            <field Id="46648488-7a4c-4a3c-93c6-0b4485efa62d" name="Mucluong" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
         </fields>
         <aggrTarget>
@@ -113,6 +122,15 @@
           <aggregation Id="635a3ec5-2e75-4043-a824-d483fe53aae3" sourceCollectionName="Hoadons" name="HoadonReferencesNhanvien" targetFieldName="NhanvienID">
             <xpObjectMoniker Id="14bea59b-c2bf-45e0-a830-05c8369077b0" />
           </aggregation>
+          <aggregation Id="507199da-0631-42f7-b59a-e1c18e8ef9d3" sourceCollectionName="PhieuNhaps" name="PhieuNhapReferencesNhanvien" targetFieldName="NhanvienID">
+            <xpObjectMoniker Id="12958a15-6fff-4fd7-ab6e-2b10b9779ea1" />
+          </aggregation>
+          <aggregation Id="13efaf3e-7797-47d7-9621-71f20cbc9066" sourceCollectionName="Bangluongs" name="BangluongReferencesNhanvien" targetFieldName="NhanvienID">
+            <xpObjectMoniker Id="f6e6cc2e-75a4-4add-9f28-97fbd17ff91a" />
+          </aggregation>
+          <aggregation Id="0837e60e-14e4-4de5-842b-864dcc1a7c87" sourceCollectionName="Phieuchis" name="PhieuchiReferencesNhanvien" targetFieldName="NhanvienID">
+            <xpObjectMoniker Id="0ee43da7-b33f-4b95-91bc-48f5eba3146c" />
+          </aggregation>
         </aggrTarget>
         <collectionFields>
           <xpObjectHasCollectionFields Id="b8efeb24-4172-45f8-af31-99aad4058f73">
@@ -120,6 +138,15 @@
           </xpObjectHasCollectionFields>
           <xpObjectHasCollectionFields Id="489eda62-d321-45b1-b649-c23c5f6fdcfc">
             <collectionField Id="fe74cd34-5f50-4429-9fbc-3d9ca8cd328d" name="Hoadons" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="b0807788-9342-4b6e-867a-a19a217257fd">
+            <collectionField Id="32ca138d-c60c-42e2-83e6-6bbe9ad7211f" name="PhieuNhaps" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="3b6f80fc-02ba-4a77-9a06-5809dfb8c11f">
+            <collectionField Id="b171aabd-345d-4c56-82cf-8d0ad416eb4e" name="Bangluongs" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="8edb3593-9de6-43e7-b112-01143e241671">
+            <collectionField Id="9b1268b4-c167-48a9-ad8d-56e42e367695" name="Phieuchis" />
           </xpObjectHasCollectionFields>
         </collectionFields>
       </xpObject>
@@ -134,7 +161,7 @@
             <field Id="bef1e78d-3f50-4b5b-821f-8d924ed76f53" name="Dienthoai" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.Persistent.Validation.RuleUniqueValue" />
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="0635cd2e-70b8-46b4-931c-2fdae07af593">
-            <field Id="f4526e73-ea5b-442f-be8b-4a200b4c23c6" name="MST" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+            <field Id="f4526e73-ea5b-442f-be8b-4a200b4c23c6" name="MST" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.Persistent.Validation.RuleUniqueValue" />
           </generalXpObjectHasFields>
         </fields>
         <aggrTarget>
@@ -177,24 +204,117 @@
             <field Id="a7674843-1b60-49fb-b51e-c858cc2fdb4a" name="Phanloai" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
         </fields>
+        <aggrTarget>
+          <aggregation Id="9b54d879-e5a4-4621-a74f-8308d7488227" sourceCollectionName="Sanphams" name="SanphamReferencesNhomSP" targetFieldName="NhomID">
+            <xpObjectMoniker Id="4368e35b-f540-43f0-bedb-1a16d9cae5b1" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="aa7cff79-9f0f-469b-8fd7-24ee561db11c">
+            <collectionField Id="dc153fe5-d8f6-4251-be60-da7489227c87" name="Sanphams" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
       </xpObject>
     </dataBaseObjectModelHasClasses>
     <dataBaseObjectModelHasClasses Id="f7797223-4c73-43b4-b5fa-72b8faec817e">
       <xpObject Id="12958a15-6fff-4fd7-ab6e-2b10b9779ea1" name="PhieuNhap" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="PhieuNhap" designerFileName="PhieuNhap.Designer" className="PhieuNhap" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="PhieuNhap" customAttributes="DefaultProperty(&quot;So&quot;)">
         <fields>
           <generalXpObjectHasFields Id="e5684cc7-ada6-4ae2-85a0-0686fd35f613">
-            <field Id="f125ae21-8006-4a35-9a1f-c43a3af91ebe" name="NCCID" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+            <field Id="f125ae21-8006-4a35-9a1f-c43a3af91ebe" name="NCCID" virtualColumnType="Nhacungcap" logicalType="Nhacungcap" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="0551c6db-6faf-4b7a-a915-d3b2d0fc61f4">
-            <field Id="fb90ccec-d0e7-4cdc-be91-ecf08e270686" name="NhanvienID" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+            <field Id="fb90ccec-d0e7-4cdc-be91-ecf08e270686" name="NhanvienID" virtualColumnType="Nhanvien" logicalType="Nhanvien" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="e9ae8c7a-ceb8-4f6b-9d76-16bdd3b302c7">
             <field Id="c5c0093f-3c6f-4e0f-95a9-ee0b6cb5332e" name="So" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="b3e6c836-562c-43ba-b3b3-0ef7f655074a">
-            <field Id="73d18c12-7a71-4151-94a8-f996ba5ba144" name="Ngay" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+            <field Id="73d18c12-7a71-4151-94a8-f996ba5ba144" name="Ngay" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.ExpressApp.Model.ModelDefault(&quot;EditMask&quot;,&quot;dd/MM/yyyy HH:mm&quot;),&#xD;&#xA;DevExpress.ExpressApp.Model.ModelDefault(&quot;DisplayFormat&quot;,&quot;{0:dd/MM/yyyy HH:mm}&quot;)" />
           </generalXpObjectHasFields>
         </fields>
+        <aggrTarget>
+          <aggregation Id="52139820-29bf-4bee-bd13-e345a522ff01" sourceCollectionName="DongNhaps" name="DongNhapReferencesPhieuNhap" targetFieldName="NhapID">
+            <xpObjectMoniker Id="208f251e-5a08-4526-a4c0-b75b39aed56e" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="17be958e-33f4-4578-88bc-6f540bdfc496">
+            <collectionField Id="14a4e6a2-b240-4cb1-9f86-7f47b00a508d" name="DongNhaps" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="75d093f0-eb36-45b3-87d4-558018ea2ee6">
+      <xpObject Id="0ee43da7-b33f-4b95-91bc-48f5eba3146c" name="Phieuchi" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Phieuchi" designerFileName="Phieuchi.Designer" className="Phieuchi" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Phieuchi" customAttributes="DefaultProperty(&quot;So&quot;)">
+        <fields>
+          <generalXpObjectHasFields Id="3f2d9ea9-4e2e-4a22-9c59-613e8a852eb9">
+            <field Id="0e2b5422-e856-4449-bbb1-69b30bd1dead" name="NCCID" virtualColumnType="Nhacungcap" logicalType="Nhacungcap" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7bd523c9-0fc8-4010-882b-aee135d8b027">
+            <field Id="2921ae54-7edd-440b-914b-3abe97960813" name="NhanvienID" columnType="UInt16" virtualColumnType="Nhanvien" logicalType="Nhanvien" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="17d26e4a-5c1a-44e8-82c9-1c6555637722">
+            <field Id="dcd93356-a016-4abe-87d4-ff25563a0577" name="So" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="91c925c5-f58e-4358-a0b4-3db4a8d80623">
+            <field Id="0250e148-c3f4-4182-8b73-1897463ebb26" name="Ngay" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7b747337-d2be-4d1a-9c69-2bb626f59ea4">
+            <field Id="44613afa-a5f0-4665-ae15-c0f84d316d13" name="Sotien" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="9cb0799f-68e2-425f-a3e7-78ecfe60b3f5">
+      <xpObject Id="f6e6cc2e-75a4-4add-9f28-97fbd17ff91a" name="Bangluong" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Bangluong" designerFileName="Bangluong.Designer" className="Bangluong" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Bangluong" customAttributes="DefaultProperty(&quot;Nam&quot;)">
+        <fields>
+          <generalXpObjectHasFields Id="6b92b3a6-e4f2-434b-80db-ffb10eba498d">
+            <field Id="4b167012-ce31-45e2-a61f-cd9b96d13dfa" name="NhanvienID" virtualColumnType="Nhanvien" logicalType="Nhanvien" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2097b8c1-b882-45ea-ae29-150f1714c369">
+            <field Id="8cc5b018-e156-4329-a399-783f7bb86b76" name="Nam" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.ExpressApp.Model.ModelDefault(&quot;EditMask&quot;,&quot;dd/MM/yyyy HH:mm&quot;),&#xD;&#xA;DevExpress.ExpressApp.Model.ModelDefault(&quot;DisplayFormat&quot;,&quot;{0:dd/MM/yyyy HH:mm}&quot;)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="cf1593f6-e013-424e-9b65-41e32e70de39">
+            <field Id="8c60bfe0-50f2-428e-bec5-ae582e247349" name="Thang" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.ExpressApp.Model.ModelDefault(&quot;EditMask&quot;,&quot;dd/MM/yyyy HH:mm&quot;),&#xD;&#xA;DevExpress.ExpressApp.Model.ModelDefault(&quot;DisplayFormat&quot;,&quot;{0:dd/MM/yyyy HH:mm}&quot;)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="78693127-3996-44f8-b836-c714f3d93224">
+            <field Id="247e8212-deae-40dd-8648-bb3f7ee874b0" name="SogioLam" columnType="Double" virtualColumnType="Double" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="19389b72-a5ca-44ff-a0f0-a7c1d098f2d4">
+            <persistentAlias Id="fd2c1e6b-6bfe-4c77-9df5-0e0108a9b320" name="Luong" virtualColumnType="String" expression="ToDecimal([SogioLam]) * [Mucluong]" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="218d3e02-c045-4f67-a5ce-e5740f64e3dd">
+      <xpObject Id="667036ee-85f0-4dbd-a1b1-f277649800d7" name="Nhacungcap" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Nhacungcap" designerFileName="Nhacungcap.Designer" className="Nhacungcap" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Nhacungcap" customAttributes="DefaultProperty(&quot;Hoten&quot;)">
+        <fields>
+          <generalXpObjectHasFields Id="bd0f018a-921c-4a2e-885f-6bbe2e8cc470">
+            <field Id="5e42b125-89e6-4702-982f-724b304471c8" name="Hoten" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7a925623-58b5-4aa4-8bae-a68fda8dd79c">
+            <field Id="dbf54c24-a226-4720-95ad-99764be62035" name="Dienthoai" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.Persistent.Validation.RuleUniqueValue" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6b4d369f-fff1-45fe-a0f5-8c27c580303e">
+            <field Id="999bfcd8-27d4-401c-91fb-ee773a605ec2" name="MST" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="DevExpress.Persistent.Validation.RuleUniqueValue" />
+          </generalXpObjectHasFields>
+        </fields>
+        <aggrTarget>
+          <aggregation Id="a321333a-da14-4fa8-915e-5914e94a113c" sourceCollectionName="PhieuNhaps" name="PhieuNhapReferencesNhacungcap" targetFieldName="NCCID">
+            <xpObjectMoniker Id="12958a15-6fff-4fd7-ab6e-2b10b9779ea1" />
+          </aggregation>
+          <aggregation Id="86370e9a-26ce-471a-8774-a204885c1b50" sourceCollectionName="Phieuchis" name="PhieuchiReferencesNhacungcap" targetFieldName="NCCID">
+            <xpObjectMoniker Id="0ee43da7-b33f-4b95-91bc-48f5eba3146c" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="721cd2ad-96c8-45e2-bbbe-1aabc56440fe">
+            <collectionField Id="2022b595-5645-4d93-b1b3-ffdeafa36188" name="PhieuNhaps" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="28f7ff77-3694-430d-8ed8-6aebc9085bce">
+            <collectionField Id="3e4a3340-e4cb-425b-9f91-05247c039ef8" name="Phieuchis" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
       </xpObject>
     </dataBaseObjectModelHasClasses>
   </classes>

@@ -32,16 +32,22 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             get { return fDienthoai; }
             set { SetPropertyValue<string>(nameof(Dienthoai), ref fDienthoai, value); }
         }
-        string fMucluong;
-        public string Mucluong
+        decimal fMucluong;
+        public decimal Mucluong
         {
             get { return fMucluong; }
-            set { SetPropertyValue<string>(nameof(Mucluong), ref fMucluong, value); }
+            set { SetPropertyValue<decimal>(nameof(Mucluong), ref fMucluong, value); }
         }
         [Association(@"ChamcongReferencesNhanvien"), Aggregated]
         public XPCollection<Chamcong> Chamcongs { get { return GetCollection<Chamcong>(nameof(Chamcongs)); } }
         [Association(@"HoadonReferencesNhanvien"), Aggregated]
         public XPCollection<Hoadon> Hoadons { get { return GetCollection<Hoadon>(nameof(Hoadons)); } }
+        [Association(@"PhieuNhapReferencesNhanvien"), Aggregated]
+        public XPCollection<PhieuNhap> PhieuNhaps { get { return GetCollection<PhieuNhap>(nameof(PhieuNhaps)); } }
+        [Association(@"BangluongReferencesNhanvien"), Aggregated]
+        public XPCollection<Bangluong> Bangluongs { get { return GetCollection<Bangluong>(nameof(Bangluongs)); } }
+        [Association(@"PhieuchiReferencesNhanvien"), Aggregated]
+        public XPCollection<Phieuchi> Phieuchis { get { return GetCollection<Phieuchi>(nameof(Phieuchis)); } }
     }
 
 }

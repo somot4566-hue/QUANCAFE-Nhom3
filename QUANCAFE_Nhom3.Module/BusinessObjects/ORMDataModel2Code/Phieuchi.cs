@@ -5,12 +5,12 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel1
+namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
-    public partial class Chamcong
+    public partial class Phieuchi
     {
-        public Chamcong(Session session) : base(session) { }
+        public Phieuchi(Session session) : base(session) { }
         public override void AfterConstruction() { base.AfterConstruction(); }
     }
 
