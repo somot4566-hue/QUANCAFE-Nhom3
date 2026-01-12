@@ -8,13 +8,10 @@ using System.Reflection;
 namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
-    public partial class HoadonCT
+    public partial class DongNhap
     {
-        public HoadonCT(Session session) : base(session) { }
-        public override void AfterConstruction() 
-        { 
-            base.AfterConstruction(); }
-           
+        public DongNhap(Session session) : base(session) { }
+        public override void AfterConstruction() { base.AfterConstruction(); }
     }
 
 }

@@ -13,18 +13,18 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel1
+namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
     [DefaultProperty("Giovao")]
     public partial class Chamcong : DevExpress.Persistent.BaseImpl.BaseObject
     {
-        Nhanvien fNhanvien_ID;
+        Nhanvien fNhanvienID;
         [Association(@"ChamcongReferencesNhanvien")]
-        public Nhanvien Nhanvien_ID
+        public Nhanvien NhanvienID
         {
-            get { return fNhanvien_ID; }
-            set { SetPropertyValue<Nhanvien>(nameof(Nhanvien_ID), ref fNhanvien_ID, value); }
+            get { return fNhanvienID; }
+            set { SetPropertyValue<Nhanvien>(nameof(NhanvienID), ref fNhanvienID, value); }
         }
         DateTime fGiovao;
         [DevExpress.ExpressApp.Model.ModelDefault("EditMask", "dd/MM/yyyy HH:mm"),

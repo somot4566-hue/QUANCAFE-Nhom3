@@ -5,12 +5,12 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel1
+namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
 {
 
-    public partial class Nhanvien
+    public partial class Nhacungcap
     {
-        public Nhanvien(Session session) : base(session) { }
+        public Nhacungcap(Session session) : base(session) { }
         public override void AfterConstruction() { base.AfterConstruction(); }
     }
 

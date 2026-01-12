@@ -31,9 +31,9 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             set { SetPropertyValue<decimal>(nameof(Dongia), ref fDongia, value); }
         }
         [PersistentAlias("[Dongia] * ToDecimal([Soluong])")]
-        public string Thanhtien
+        public decimal Thanhtien
         {
-            get { return (string)(EvaluateAlias(nameof(Thanhtien))); }
+            get { return (decimal)(EvaluateAlias(nameof(Thanhtien))); }
         }
         Hoadon fHoadonID;
         [Association(@"HoadonCTReferencesHoadon")]
@@ -49,6 +49,8 @@ namespace QUANCAFE_Nhom3.Module.BusinessObjects.ORMDataModel2
             get { return fSanphamID; }
             set { SetPropertyValue<Sanpham>(nameof(SanphamID), ref fSanphamID, value); }
         }
+        [Association(@"TieuhaoReferencesHoadonCT"), Aggregated]
+        public XPCollection<Tieuhao> Tieuhaos { get { return GetCollection<Tieuhao>(nameof(Tieuhaos)); } }
     }
 
 }
